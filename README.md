@@ -88,6 +88,8 @@ Make sure the database and table are created before running the application.
   <img src="screenshots/Screenshot%202026-11-03%20180846.png" width="45%" alt="Student Profile Management System Screenshot 1" />
   <img src="screenshots/Screenshot%202026-11-03%20180812.png" width="45%" alt="Student Profile Management System Screenshot 2" />
   <img src="screenshots/Screenshot 2026-11-21 113450.png" width="45%" alt="Student Profile Management System Screenshot 3" />
+  <img src="screenshots/Screenshot 2026-11-21 113547.png" width="45%" alt="Student Profile Management System Screenshot 4" /> 
+  
  
 </p>
 
